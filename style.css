@@ -305,7 +305,7 @@ body {
 }
 .post-person{
 	width:100%;
-	height: 229px;
+	max-height: 229px;
 }
 .grid:nth-child(3)
 {
