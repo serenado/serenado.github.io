@@ -304,7 +304,8 @@ body {
 	opacity:1;
 }
 .post-person{
-	width:100%;
+	width:auto;
+	max-height:229px;
 	
 }
 .grid:nth-child(3)
