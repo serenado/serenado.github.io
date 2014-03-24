@@ -2,6 +2,7 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-size: 100%;
 	background: #ffffff;
+	height:100%;
 }
 #portfoliolist .portfolio {
 	-webkit-box-sizing: border-box;
@@ -30,6 +31,7 @@ body {
 	background: #1BBC9B;
 	text-align:center;
 	padding: 5em 0em;
+	height:100%;
 }
 .about h2{
 	color:#fff;
