@@ -5,6 +5,12 @@ body {
 	height:100%;
 	background: #1BBC9B;
 }
+
+p {
+	margin-right: 25em;
+	margin-left: 25em;
+}
+
 #portfoliolist .portfolio {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -55,19 +61,5 @@ body {
 	font-size: 1.4em;
 	margin-top: 15px;
 }
-.desc p:nth-child(2)
-{
-	color:#444444;
-	font-size:1.1em;
-	font-style: italic;
-	margin: 5px 25px 9px 25px;
-	padding: 0;
-}
-.desc p:nth-child(3)
-{
-	color:#444444;
-	font-size:1.02em;
-	text-align: left;
-	padding: 1em 1em 2em 1em;
-	line-height: 1.9em;
-}
+
+
