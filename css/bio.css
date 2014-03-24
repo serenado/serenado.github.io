@@ -1,14 +1,15 @@
-p {
-	padding: 50px;
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 100%;
+	background: #ffffff;
 }
 
 #portfoliolist .portfolio {
 	width: 100%;
 	float:none;
+
 }
-.about {
-padding: 1.2em 0em;
-}
+
 .about p {
 	padding-bottom: 2em;
 }
