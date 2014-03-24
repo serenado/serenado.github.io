@@ -12,6 +12,7 @@ body {
 	margin: 0% 3%;
 	display: none;
 	float: left;
+	height:100%;
 }
 .portfolio-wrapper {
 	overflow:hidden;
