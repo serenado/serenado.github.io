@@ -3,6 +3,7 @@ body {
 	font-size: 100%;
 	background: #ffffff;
 	height:100%;
+	background: #1BBC9B;
 }
 #portfoliolist .portfolio {
 	-webkit-box-sizing: border-box;
@@ -29,7 +30,7 @@ body {
 }
 .about
 {
-	background: #1BBC9B;
+	
 	text-align:center;
 	padding: 5em 0em;
 	height:100%;
