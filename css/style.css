@@ -33,7 +33,15 @@ body {
 	font-size: 100%;
 	background: #ffffff;
 }
+.para a {
+  color: #cccccc; 
+  }
+
+.para a:hover {
+  color: white; 
+  }
 .wrap
+
 {
 	width:70%;
 	margin: 0 auto;
