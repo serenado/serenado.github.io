@@ -9,7 +9,7 @@ body {
 p {
 	margin-right: 25em;
 	margin-left: 25em;
-	display:block;
+	display:inline-block;
 }
 
 #portfoliolist .portfolio {
