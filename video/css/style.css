@@ -289,7 +289,10 @@
 				margin: 0 0 4em 0;
 			}
 			
-			
+			iframe {
+				display:block;
+				width:100%;
+				margin:: 0 0 4em 0;
 			
 			.image.left
 			{
