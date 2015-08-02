@@ -1580,7 +1580,7 @@ p.footer-grid {
   font-size: 0.95em;
 }
 .col-md-4.in-top-content {
-  padding: 0;
+  padding: 10px;
 }
 .in-content {
   padding: 10px 5px;
