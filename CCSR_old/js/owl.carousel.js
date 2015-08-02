@@ -1411,9 +1411,9 @@ if ( typeof Object.create !== "function" ) {
 		itemsCustom : false,
 		itemsDesktop : [1199,4],
 		itemsDesktopSmall : [979,4],
-		itemsTablet : [768,3],
+		itemsTablet : [768,2],
 		itemsTabletSmall : false,
-		itemsMobile : [480,2],
+		itemsMobile : [479,1],
 		singleItem : false,
 		itemsScaleUp : false,
 
