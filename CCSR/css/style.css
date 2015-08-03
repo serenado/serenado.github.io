@@ -12,6 +12,11 @@ html, body{
 	background:#fff;
 	font-family: 'Raleway', sans-serif;
 }
+
+.blog a {
+	text-align: center;
+}
+
 body a{
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -828,8 +833,12 @@ ul.popular li span.dot {
 	text-align:center;
 	font-family: 'Squada One', cursive;
 }
-.blog-left,.left-blog,.top-blog{
+.blog-left,.left-blog {
 	float:left;
+}
+
+.top-blog {
+	float: center;
 }
 .blog-left{
 	width:8%;
@@ -839,7 +848,9 @@ ul.popular li span.dot {
 }
 .top-blog{
 	width:57%;
-	padding:0 0 0 2em;
+	padding:0 0 0 0;
+	margin: 0 auto;
+	
 }
 .blog-left p{
 	font-size: 5em;
@@ -880,15 +891,18 @@ ul.men-grid li a{
 }
 .top-blog a.fast:hover{
 	color:#FF5B61;
+	text-align: center;
 }
 .top-blog p{
 	margin:0 0 3em;
 	font-size:0.95em;
 	color:#555;
 	line-height:1.8em;
+	
 }
 .single-top {
 	padding: 2em 0;
+	
 }
 /*--single--*/
 /*----artical-links---*/
