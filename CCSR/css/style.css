@@ -13,6 +13,11 @@ html, body{
 	font-family: 'Raleway', sans-serif;
 }
 
+.img-responsive{
+	margin: auto;
+	
+}
+
 .blog a {
 	text-align: center;
 }
