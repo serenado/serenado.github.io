@@ -13,6 +13,25 @@ html, body{
 	font-family: 'Raleway', sans-serif;
 }
 
+
+.top-images
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.left-pic {
+	float: left;
+	padding-right: 50px;
+
+}
+
+.right-pic {
+	float: right;
+	padding-left:50px;
+}
+
 .img-responsive{
 	margin: auto;
 	
@@ -336,7 +355,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	font-size:8em;
 	text-transform:uppercase;
 	font-weight:bold;
-	font-family: 'Squada One', cursive;
+	font-family: 'Raleway', 'cursive';
 }
 .banner h2 span {
 	font-weight: 400;
@@ -434,7 +453,7 @@ span.arrow{
 	color:#000;
 	text-transform:uppercase;
 	font-weight: 600;
-	font-family: 'Squada One', cursive;
+	font-family: 'Raleway', 'cursive';
 }
 .content-bottom span{
 	font-size:1.5em;
